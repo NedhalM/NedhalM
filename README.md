@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Nedhal</h1>
+<h1 align="center">Hello! I'm Nedhal</h1>
 <h3 align="center">A self-taught frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nedhalm&label=Profile%20views&color=0e75b6&style=flat" alt="nedhalm" /> </p>
