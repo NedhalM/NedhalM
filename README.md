@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there devs! 👋
 <h1 align="center">Hello! I'm Nedhal</h1>
 <h3 align="center">A self-taught frontend developer</h3>
 
